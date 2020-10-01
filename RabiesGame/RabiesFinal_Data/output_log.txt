@@ -1,0 +1,280 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c96)
+    Vendor:   NVIDIA
+    VRAM:     1979 MB
+    Driver:   26.21.14.4193
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Broadleaf_Desktop_Atlas_Billboards_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load ConiferBark_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load BroadleafBark from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load BroadleafBark_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load texture from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Conifer_Desktop_Atlas_Billboards from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load Conifer_Desktop_Atlas_Billboards_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load HeadF_MAT_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load HeadF_MAT_MetallicSmoothness from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Conifer_Desktop_Atlas_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load HeadF_MAT_AlbedoTransparency from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load SuitMAT_AlbedoTransparency from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Broadleaf_Desktop_Atlas_Billboards from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load ConiferBark from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load Broadleaf_Desktop_Atlas_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load SuitMAT_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load Broadleaf_Desktop_Atlas from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Conifer_Desktop_Atlas from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load SuitMAT_MetallicSmoothness from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+UnloadTime: 0.951900 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1138 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.161301 ms
+
+Unloading 229 unused Assets to reduce memory usage. Loaded Objects now: 4044.
+Total: 4.178400 ms (FindLiveObjects: 0.367800 ms CreateObjectMapping: 0.081700 ms MarkObjects: 0.476200 ms  DeleteObjects: 3.251400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.937000 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 4041.
+Total: 0.846600 ms (FindLiveObjects: 0.282600 ms CreateObjectMapping: 0.057500 ms MarkObjects: 0.489600 ms  DeleteObjects: 0.016200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.838500 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 4041.
+Total: 0.802100 ms (FindLiveObjects: 0.264500 ms CreateObjectMapping: 0.057100 ms MarkObjects: 0.463400 ms  DeleteObjects: 0.016300 ms)
+
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c96)
+    Vendor:   NVIDIA
+    VRAM:     1979 MB
+    Driver:   26.21.14.4193
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Teddy\Desktop\RabiesGame\RabiesFinal_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Broadleaf_Desktop_Atlas_Billboards_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load ConiferBark_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load BroadleafBark from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load BroadleafBark_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load texture from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Conifer_Desktop_Atlas_Billboards from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load Conifer_Desktop_Atlas_Billboards_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load HeadF_MAT_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load HeadF_MAT_MetallicSmoothness from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Conifer_Desktop_Atlas_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load HeadF_MAT_AlbedoTransparency from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load SuitMAT_AlbedoTransparency from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Broadleaf_Desktop_Atlas_Billboards from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load ConiferBark from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load Broadleaf_Desktop_Atlas_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load SuitMAT_Normal from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+async texture load: failed to load Broadleaf_Desktop_Atlas from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Conifer_Desktop_Atlas from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+Could not open file C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load SuitMAT_MetallicSmoothness from C:/Users/Teddy/Desktop/RabiesGame/RabiesFinal_Data/sharedassets0.assets.resS
+UnloadTime: 0.783800 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 48e8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.056200 ms
+
+Unloading 229 unused Assets to reduce memory usage. Loaded Objects now: 4044.
+Total: 3.788300 ms (FindLiveObjects: 0.349100 ms CreateObjectMapping: 0.091900 ms MarkObjects: 0.526400 ms  DeleteObjects: 2.819600 ms)
+
